@@ -1,0 +1,9 @@
+opencv-python
+deepface==0.0.93
+pyttsx3
+numpy==1.23.5
+tensorflow==2.12.0
+
+
+DOWNLOAD THE FOLLOWING LIBRARIES:
+pip install [library]
